@@ -1,0 +1,3 @@
+name: Commander9292-t3
+main: com.tenjava.entries.Commander9292.t3.TenJava
+version: '${project.version}'
